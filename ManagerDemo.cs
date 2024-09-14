@@ -113,6 +113,7 @@ namespace HotKeyManager
                 CurrentInput.Text = e.KeyData.ToString();
                 hotkey.Handler(sender, e);
             }
+            e.Handled = true;
             displayLasted.Restart();
         }
 
