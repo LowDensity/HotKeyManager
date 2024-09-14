@@ -23,7 +23,7 @@ Happy~~~<br>
 所以就來寫了。<br>
 
 ## 功能展示
-![展示動畫](https://github.com/LowDensity/HotKeyManager/HotkeyManagerDemo.gif)
+![展示動畫](https://github.com/LowDensity/HotKeyManager/blob/master/HotkeyManagerDemo.gif)
 
 
 ## 範例
